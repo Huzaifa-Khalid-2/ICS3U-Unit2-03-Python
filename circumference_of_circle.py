@@ -19,7 +19,7 @@ def main():
     circumference = constants.TAU * radius
 
     # output
-    print("circumference is {} mm².".format(circumference))
+    print("circumference is {} mm.".format(circumference))
     print("\nDone")
 
 
